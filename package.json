@@ -1,0 +1,11 @@
+{
+    "name": "p5-template",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "live-server project"
+    },
+    "dependencies": {
+        "firebase": "^11.4.0",
+        "live-server": "^1.2.2"
+    }
+}
